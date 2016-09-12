@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFormatting.DesktopClient", "TextFormatting\TextFormatting.DesktopClient.csproj", "{B7E0B46B-870D-4B49-BF9A-108E93ED06F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfThemeControl", "WpfThemeControl\WpfThemeControl.csproj", "{9395A483-A7C5-4E89-BF71-C5884495EADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E0B46B-870D-4B49-BF9A-108E93ED06F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E0B46B-870D-4B49-BF9A-108E93ED06F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E0B46B-870D-4B49-BF9A-108E93ED06F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E0B46B-870D-4B49-BF9A-108E93ED06F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9395A483-A7C5-4E89-BF71-C5884495EADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9395A483-A7C5-4E89-BF71-C5884495EADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9395A483-A7C5-4E89-BF71-C5884495EADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9395A483-A7C5-4E89-BF71-C5884495EADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

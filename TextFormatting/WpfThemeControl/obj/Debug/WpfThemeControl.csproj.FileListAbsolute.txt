@@ -1,0 +1,12 @@
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\WpfThemeControl\obj\Debug\WpfThemeControl.csprojResolveAssemblyReference.cache
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\WpfThemeControl\obj\Debug\Theme.baml
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\WpfThemeControl\obj\Debug\WpfThemeControl_MarkupCompile.cache
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\WpfThemeControl\bin\Debug\WpfThemeControl.dll
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\WpfThemeControl\bin\Debug\WpfThemeControl.pdb
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\WpfThemeControl\obj\Debug\ButtonStyle.baml
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\WpfThemeControl\obj\Debug\WpfThemeControl.g.resources
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\WpfThemeControl\obj\Debug\WpfThemeControl.Properties.Resources.resources
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\WpfThemeControl\obj\Debug\WpfThemeControl.csproj.GenerateResource.Cache
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\WpfThemeControl\obj\Debug\WpfThemeControl.dll
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\WpfThemeControl\obj\Debug\WpfThemeControl.pdb
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\WpfThemeControl\obj\Debug\RichTextBoxStyle.baml

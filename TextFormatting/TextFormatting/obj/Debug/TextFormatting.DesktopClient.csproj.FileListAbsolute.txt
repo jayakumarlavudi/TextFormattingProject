@@ -1,0 +1,17 @@
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\bin\Debug\TextFormatting.exe.config
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\bin\Debug\TextFormatting.exe
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\bin\Debug\TextFormatting.pdb
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\bin\Debug\WpfThemeControl.dll
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\bin\Debug\WpfThemeControl.pdb
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\obj\Debug\TextFormatting.DesktopClient.csprojResolveAssemblyReference.cache
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\obj\Debug\Views\MainWindow.g.cs
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\obj\Debug\App.g.cs
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\obj\Debug\TextFormatting_MarkupCompile.cache
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\obj\Debug\TextFormatting_MarkupCompile.lref
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\obj\Debug\App.baml
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\obj\Debug\Views\MainWindow.baml
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\obj\Debug\TextFormatting.g.resources
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\obj\Debug\TextFormatting.DesktopClient.Properties.Resources.resources
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\obj\Debug\TextFormatting.DesktopClient.csproj.GenerateResource.Cache
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\obj\Debug\TextFormatting.exe
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting\obj\Debug\TextFormatting.pdb

@@ -1,0 +1,5 @@
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting.Windows\bin\Debug\TextFormatting.Windows.dll
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting.Windows\bin\Debug\TextFormatting.Windows.pdb
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting.Windows\obj\Debug\TextFormatting.Windows.csprojResolveAssemblyReference.cache
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting.Windows\obj\Debug\TextFormatting.Windows.dll
+E:\Interview Studies\Algorithms\Dynamic Connectivity\TextFormatting\TextFormatting.Windows\obj\Debug\TextFormatting.Windows.pdb
